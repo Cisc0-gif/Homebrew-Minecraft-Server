@@ -29,7 +29,9 @@ To run the Windows version of HMS run ``` start.cmd ``` to start the server.
 
 ## Authors
 
-* **Cisc0-gif** - *Main Contributor/Author*: Ecorp7@protonmail.com
+* **Cisc0-gif** - *Main Contributor/Author*
+* Email: Ecorp7@protonmail.com
+* Discord: Fergo310#5226
 
 ## License
 
